@@ -17,8 +17,8 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/restaurant.png)',backgroundSize:'cover'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="https://pears-restaurant.netlify.app/">Work 01</a></h3>
-											<span>Restaurant Website</span>
+											<h3><a href="https://pears-restaurant.netlify.app/">Restaurant Website</a></h3>
+											<span>Client-side</span>
 											<p className="icon">
 												<span><a href="#"><i className="icon-share3" /></a></span>
 												<span><a href="#"><i className="icon-eye" /> 100</a></span>
@@ -29,11 +29,11 @@ export default class Projects extends Component {
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
-								<div className="project" style={{backgroundImage: 'url(images/img-2.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/Translator.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 02</a></h3>
-											<span>Animation</span>
+											<h3><a href="https://translator-application.netlify.app/">Translator application</a></h3>
+											<span>Client-side</span>
 											<p className="icon">
 												<span><a href="#"><i className="icon-share3" /></a></span>
 												<span><a href="#"><i className="icon-eye" /> 100</a></span>
